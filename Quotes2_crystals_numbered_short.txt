@@ -40,3 +40,83 @@ Red Jasper
 Fluorite
 ///900///
 Labradorite
+///901///
+Tiger’s Eye
+///902///
+Onyx
+///903///
+Smoky Quartz
+///904///
+Citrine
+///905///
+Red Jasper
+///906///
+Lapis Lazuli
+///907///
+Jade
+///908///
+Pyrite
+///909///
+Fluorite
+///910///
+Aquamarine
+///911///
+Selenite
+///912///
+Garnet
+///913///
+Apatite
+///914///
+Bronzite
+///915///
+Green Aventurine
+///916///
+Blue Lace Agate
+///917///
+Obsidian
+///918///
+Amethyst
+///919///
+Chrysoprase
+///920///
+Amazonite
+///921///
+Moss Agate
+///922///
+Prehnite
+///923///
+Angelite
+///924///
+Chrysocolla
+///925///
+Bloodstone
+///926///
+Peridot
+///927///
+Fire Agate
+///928///
+Moonstone
+///929///
+Turquoise
+///930///
+Rhodonite
+///931///
+Celestite
+///932///
+Kyanite
+///933///
+Prasiolite
+///934///
+Herkimer Diamond
+///935///
+Ametrine
+///936///
+Ammonite
+///937///
+Rose Quartz
+///938///
+Pearl
+///939///
+Fire Opal
+///940///
+Pyromorphite
