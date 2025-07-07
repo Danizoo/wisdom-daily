@@ -30,7 +30,6 @@ Service, Love, Humility, Connection
 Purpose, Meaning, Courage, Conscience
 
 ///890///
-Purpose, Self-discipline, Excellence → (adjusted:)
 Purpose, Self-discipline, Confidence, Drive
 
 ///891///
@@ -62,3 +61,123 @@ Curiosity, Growth, Wisdom
 
 ///900///
 Vision, Connection, Growth, Ambition
+
+///901///
+Self-discipline, Compassion, Determination, Service
+
+///902///
+Courage, Forgiveness, Drive
+
+///903///
+Acceptance, Respect, Resilience, Peace
+
+///904///
+Growth, Compassion, Passion
+
+///905///
+Focus, Love, Risk-taking
+
+///906///
+Self-discipline, Understanding, Risk-taking
+
+///907///
+Open-mindedness, Presence, Strength, Peace
+
+///908///
+Wisdom, Understanding, Initiative
+
+///909///
+Wisdom, Empathy, Vision
+
+///910///
+Clarity, Kindness, Resilience
+
+///911///
+Mindfulness, Presence, Strength, Surrender
+
+///912///
+Confidence, Compassion, Initiative
+
+///913///
+Curiosity, Humility, Hustle, Conscience
+
+///914///
+Focus, Empathy, Drive
+
+///915///
+Self-discipline, Empathy, Vision
+
+///916///
+Clarity, Empathy, Resilience
+
+///917///
+Open-mindedness, Humility, Boldness
+
+///918///
+Mindfulness, Empathy, Faith
+
+///919///
+Self-discipline, Humility, Resilience, Integrity
+
+///920///
+Confidence, Understanding, Passion
+
+///921///
+Awareness, Gratitude, Faith, Service
+
+///922///
+Self-discipline, Joy, Vision, Service
+
+///923///
+Growth, Connection, Boldness
+
+///924///
+Clarity, Empathy, Hustle, Conscience
+
+///925///
+Courage, Humility, Perseverance
+
+///926///
+Self-discipline, Patience, Ambition
+
+///927///
+Courage, Understanding, Risk-taking, Justice
+
+///928///
+Awareness, Presence, Initiative
+
+///929///
+Wisdom, Respect, Perseverance
+
+///930///
+Growth, Compassion, Ambition, Purpose
+
+///931///
+Awareness, Presence, Resilience
+
+///932///
+Focus, Patience, Risk-taking
+
+///933///
+Confidence, Love, Faith, Purpose
+
+///934///
+Confidence, Connection, Strength, Conscience
+
+///935///
+Clarity, Gratitude, Initiative
+
+///936///
+Growth, Understanding, Drive
+
+///937///
+Confidence, Connection, Ambition, Hope
+
+///938///
+Self-discipline, Gratitude, Faith, Service
+
+///939///
+Wisdom, Joy, Vision
+
+///940///
+Confidence, Love, Hustle
