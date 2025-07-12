@@ -1,0 +1,296 @@
+[
+  {
+    "name": "Growth",
+    "description": "Growth is the ongoing process of becoming more than you were yesterday. It is not limited to achievements or success, but about expanding your awareness, evolving emotionally, and learning through every experience—especially failure. Growth invites humility, because it requires acknowledging what you don’t know. It demands courage, because it asks you to leave comfort behind. True growth is not linear; it’s a spiraling upward journey that includes reflection, discomfort, and small but meaningful steps. It's in the way you listen more openly, choose better habits, and learn to love more deeply. It’s how you turn pain into insight, mistakes into wisdom, and effort into transformation.",
+    "element": "Earth",
+    "symbol": "Tree with deep roots and new leaves"
+  },
+  {
+    "name": "Clarity",
+    "description": "Clarity is the ability to see, think, and feel with precision and calm. It is like standing on a mountaintop, where the fog of confusion lifts and you can see the path ahead. Clarity does not mean having all the answers, but rather recognizing what truly matters and what does not. It arises when the mind is quiet, free of emotional clutter and distraction. When you’re clear, you make better decisions, communicate more effectively, and align your actions with your values. Clarity brings freedom—it simplifies life. It's not something you force, but something you allow by letting go of overthinking and tuning into your deeper knowing. It’s water finding stillness after a storm.",
+    "element": "Air",
+    "symbol": "Clear open sky"
+  },
+  {
+    "name": "Wisdom",
+    "description": "Wisdom is more than knowledge. It’s the alchemy of experience, reflection, and insight woven together over time. Wisdom listens before it speaks. It observes patterns, learns from pain, and embraces humility. While knowledge is information, wisdom is transformation—seeing the deeper meaning in what happens and responding from that deeper place. Wise people recognize nuance. They don’t rush to judgment. They understand the interconnectedness of all things. Wisdom often grows in silence, through solitude, or through trials that stretch the heart and mind. It is calm in chaos, clarity in confusion, and peace in complexity. To seek wisdom is to commit to inner work that never ends. It is one of life’s most sacred pursuits.",
+    "element": "Ether",
+    "symbol": "Owl"
+  },
+  {
+    "name": "Courage",
+    "description": "Courage is not the absence of fear, but the decision to move forward in spite of it. It shows up in quiet moments just as much as bold ones—in telling the truth, asking for help, or standing alone when needed. Courage is the force that transforms vulnerability into strength. It doesn't mean recklessness but rather a deep resolve to do what’s right, even when it’s hard. It fuels change, breaks cycles, and inspires others to rise. To live with courage is to honor your values over your comfort, and your integrity over approval. Every act of courage rewrites what you believe is possible.",
+    "element": "Fire",
+    "symbol": "Lion"
+  },
+  {
+    "name": "Curiosity",
+    "description": "Curiosity is the open door to discovery, wonder, and growth. It asks questions without needing immediate answers. It approaches life with childlike awe and a desire to understand rather than judge. Curiosity dissolves assumptions, pushes past fear of the unknown, and leads you into new territories—both inward and outward. It invites creativity, expands empathy, and keeps the soul young. When you’re curious, learning becomes joyful and life reveals its layers. It is a mindset that says, 'What more is here to explore?' and follows that whisper into meaning. In curiosity lies the first step to transformation.",
+    "element": "Air",
+    "symbol": "Child gazing at stars"
+  },
+  {
+    "name": "Mindfulness",
+    "description": "Mindfulness is the art of paying attention—on purpose, in the present moment, and without judgment. It allows you to become aware of your thoughts, emotions, and environment with clarity and compassion. Mindfulness invites you to return to yourself, to breathe, to listen, and to be fully where you are. In a world that often pulls you toward distraction, it is an anchor to inner peace. Practicing mindfulness doesn’t mean avoiding difficulty, but meeting it with presence and softness. It reveals the richness of simple moments and the wisdom hidden in silence. With mindfulness, each moment becomes an opportunity to reconnect to your life.",
+    "element": "Water",
+    "symbol": "Still pond reflecting the sky"
+  },
+  {
+    "name": "Awareness",
+    "description": "Awareness is the light that reveals both the inner world and the outer one. It is the act of observing without attachment—of witnessing your thoughts, emotions, reactions, and patterns as they arise. Through awareness, you begin to notice the spaces between impulses and choices. It cultivates responsibility and depth, because you are no longer acting from habit or unconsciousness. Awareness allows you to respond instead of react. It sharpens your sensitivity to the world and helps you see beyond illusions. It's a quiet power—often invisible—but it transforms everything it touches by simply illuminating what is. With awareness, even the mundane becomes meaningful.",
+    "element": "Air",
+    "symbol": "Open eye"
+  },
+  {
+    "name": "Open-mindedness",
+    "description": "Open-mindedness is the ability to hold multiple perspectives without rushing to dismiss, reject, or label. It is not about believing everything but being willing to consider, to listen, and to explore ideas that challenge your existing worldview. It’s a form of mental flexibility and emotional maturity. An open mind is a doorway to empathy, innovation, and peace. It doesn’t fear change—it welcomes dialogue. In a world divided by certainty, open-mindedness bridges the gap. It allows wisdom to enter and ego to step aside. To be open-minded is to stay teachable, curious, and alive to truth—even when it surprises you.",
+    "element": "Air",
+    "symbol": "Open window"
+  },
+  {
+    "name": "Confidence",
+    "description": "Confidence is not loud or boastful—it is quiet self-trust. It comes from knowing who you are and owning your worth without the need for comparison or validation. True confidence allows you to walk into uncertainty and speak your truth, because your foundation is internal. It grows from experience, self-acceptance, and integrity. Confident people don’t need to dominate—they uplift others. They don’t pretend to know everything, but they are secure in their ability to learn and adapt. Confidence is like rooted ground beneath your feet; it steadies you when everything else feels shaky.",
+    "element": "Earth",
+    "symbol": "Mountain peak"
+  },
+  {
+    "name": "Focus",
+    "description": "Focus is the ability to direct your energy with intention. In a world that constantly demands your attention, focus is a rare and powerful gift. It means saying 'no' to distractions so you can say 'yes' to what truly matters. Focus doesn't require intensity—it requires clarity and persistence. When you focus, you bring your full self into the moment, the task, the conversation. It is the fuel of progress and the container in which mastery is built. Focus is not about control; it's about devotion. It sharpens your presence and allows you to shape your life, one meaningful choice at a time.",
+    "element": "Fire",
+    "symbol": "Burning candle in a dark room"
+  },
+  {
+    "name": "Self-discipline",
+    "description": "Self-discipline is the bridge between intention and action. It’s choosing long-term fulfillment over short-term comfort. Self-discipline is not punishment—it is empowerment. It’s the inner structure that allows your dreams to become real. It teaches you to delay gratification, to persevere when motivation fades, and to show up consistently for what matters most. It fosters integrity and builds trust in yourself. With self-discipline, you don’t wait for ideal conditions—you create them. It is the silent strength behind every transformation.",
+    "element": "Earth",
+    "symbol": "Path made of stepping stones"
+  },
+  {
+    "name": "Acceptance",
+    "description": "Acceptance is not giving up—it’s letting go of the illusion that things should be different than they are. It is the inner permission to feel, to witness, and to embrace what’s real without judgment or resistance. Acceptance brings peace, because it ends the war with reality. It opens the door to healing, forgiveness, and presence. From acceptance comes the clarity to act—not from reactivity, but from wisdom. When you accept something, you no longer carry the weight of what 'should' be. You begin to see the beauty in imperfection, and the possibility in what is.",
+    "element": "Water",
+    "symbol": "Flowing river"
+  },
+  {
+    "name": "Love",
+    "description": "Love is the force that binds all things. It is not just an emotion, but a way of being—a willingness to see, accept, and honor the truth and beauty in another, and in yourself. Love is generous, patient, and courageous. It heals wounds, softens walls, and expands the heart beyond the self. True love doesn’t possess—it liberates. It meets pain with gentleness and sees through fear with compassion. Love shows up in action, in listening, in sacrifice, and in joy. It is the foundation of all meaningful connection and the highest frequency we can live by.",
+    "element": "Water",
+    "symbol": "Two hands forming a heart"
+  },
+  {
+    "name": "Compassion",
+    "description": "Compassion is the deep recognition of another’s suffering, paired with the desire to alleviate it. It is empathy in motion—a softness that does not look away. Compassion does not judge, fix, or pity; it stands beside, listens deeply, and offers its presence as medicine. It is born from humility, knowing that we all suffer, and that kindness is more healing than critique. Compassion flows when we stop defending ourselves and start embracing our shared humanity. It is one of the bravest things we can offer in a world that often encourages hardness.",
+    "element": "Water",
+    "symbol": "Warm embrace"
+  },
+  {
+    "name": "Forgiveness",
+    "description": "Forgiveness is the decision to release yourself from the burden of resentment. It is not condoning harm, nor forgetting the past—it is choosing freedom over bitterness. Forgiveness is a gift you give yourself first. It allows healing to begin where pain once took root. It breaks cycles of blame and opens a path toward peace. It doesn't erase the wound, but it transforms your relationship to it. To forgive is to reclaim your energy from the past and return it to the present. It is an act of radical self-love and deep strength.",
+    "element": "Water",
+    "symbol": "Unchained lock"
+  },
+  {
+    "name": "Empathy",
+    "description": "Empathy is the ability to step into another's experience and feel with them, not just for them. It’s a bridge built from presence and vulnerability. Empathy doesn’t try to fix—it sits beside pain and says, 'You’re not alone.' It opens your heart beyond judgment and into understanding. It’s the foundation of real connection, trust, and healing. Empathy invites us to listen without needing to respond, to witness without turning away. In practicing empathy, we soften the spaces between us and remember our shared humanity.",
+    "element": "Water",
+    "symbol": "Mirror reflecting a face"
+  },
+  {
+    "name": "Gratitude",
+    "description": "Gratitude is the act of recognizing the goodness in your life, even when things aren’t perfect. It shifts your focus from lack to abundance, from complaint to appreciation. Gratitude isn’t passive—it’s a choice to see beauty, to celebrate small blessings, and to honor what sustains you. It makes the ordinary sacred. It deepens joy, strengthens relationships, and grounds you in the present. A grateful heart is a powerful heart—it can find light in the darkest places and meaning in the mundane. With gratitude, life becomes enough.",
+    "element": "Earth",
+    "symbol": "Hands held in prayer over the heart"
+  },
+  {
+    "name": "Joy",
+    "description": "Joy is more than happiness—it is a state of inner aliveness that bubbles up from the soul. It is often found in the simplest moments: a deep breath, a laugh shared, sunlight through leaves. Joy doesn’t require life to be perfect—it coexists with sadness, with uncertainty, with vulnerability. It is a homecoming to your truest self. Joy is resilient and spontaneous. It reminds you that beauty is always available if you slow down enough to notice. To choose joy is to choose life in its fullness.",
+    "element": "Fire",
+    "symbol": "Sunrise over a meadow"
+  },
+  {
+    "name": "Kindness",
+    "description": "Kindness is a quiet, powerful force that softens the edges of the world. It is the choice to care, to offer warmth without expecting reward, and to treat others—and yourself—with dignity and gentleness. Kindness doesn’t need an audience. It is often found in simple gestures: a thoughtful word, a helping hand, a moment of understanding. It may seem small, but its ripple effect can reach far beyond what we see. Kindness is strength, not weakness. In choosing kindness, we affirm the value of life, the worth of people, and the healing power of presence.",
+    "element": "Water",
+    "symbol": "Offering hands with a flower"
+  },
+  {
+    "name": "Patience",
+    "description": "Patience is the grace to allow things to unfold in their own time. It is the capacity to stay steady in the waiting, to resist the urge to rush, force, or control. Patience is rooted in trust—trust in life’s rhythms, in your own process, and in others’ growth. It brings calm in moments of chaos and clarity in moments of frustration. Patience is not passivity; it’s an act of strength and deep awareness. In a fast-moving world, patience is revolutionary. It helps you move with life instead of pushing against it.",
+    "element": "Earth",
+    "symbol": "Blooming flower in time-lapse"
+  },
+  {
+    "name": "Respect",
+    "description": "Respect is the recognition of value—in yourself, in others, and in life itself. It’s treating people with dignity, even when you disagree. It’s listening with care, speaking with honesty, and honoring boundaries. Respect doesn’t demand perfection; it simply asks us to acknowledge the worth in everyone and everything. It is the foundation of all healthy relationships—personal, social, and global. True respect also means standing up for what is right, not out of superiority but from a place of deep principle. It is how we create safe, meaningful, and lasting connections.",
+    "element": "Earth",
+    "symbol": "Circle of stones"
+  },
+  {
+    "name": "Presence",
+    "description": "Presence is the practice of being fully here—undistracted, undivided, and awake. It is meeting the moment as it is, without trying to change it or escape from it. Presence is not about doing more; it's about being more. When you're present, your attention becomes a gift. You listen deeply. You notice beauty. You feel alive. Presence turns ordinary moments into sacred ones and brings clarity to both joy and pain. It is the root of intimacy, the beginning of peace, and the door to all meaningful transformation.",
+    "element": "Ether",
+    "symbol": "Lotus flower"
+  },
+  {
+    "name": "Humility",
+    "description": "Humility is the quiet knowing that you are enough—and so is everyone else. It is the release of arrogance and the embrace of shared humanity. Humility allows you to learn, to grow, to admit when you’re wrong, and to listen more than you speak. It doesn’t shrink you—it centers you. True humility honors your value without needing to prove it. It allows you to lead with service, to collaborate with openness, and to love without ego. In humility, there is room for everything—mystery, wonder, and grace.",
+    "element": "Earth",
+    "symbol": "Bowing tree"
+  },
+  {
+    "name": "Understanding",
+    "description": "Understanding is the deep seeing that lies beneath the surface of things. It moves beyond assumptions and into the realm of compassion, empathy, and nuance. It seeks to know what is, not just what appears to be. Understanding requires patience, listening, and curiosity. It is how bridges are built, how conflict is softened, and how healing begins. True understanding is not agreement—it is spaciousness. It allows others to be fully themselves while making space for truth, context, and growth. To understand is to hold the world gently and wisely.",
+    "element": "Water",
+    "symbol": "Deep ocean"
+  },
+  {
+    "name": "Connection",
+    "description": "Connection is the invisible thread that binds us—to ourselves, to others, and to the greater whole. It is the experience of being seen, heard, and valued. Connection happens not through perfection, but through authenticity and vulnerability. It nourishes the soul and reminds us that we are not alone. Whether it’s a deep conversation, a shared silence, or a simple gesture of care—connection is where love lives. In a world of increasing separation, it is one of our most vital needs and sacred responsibilities.",
+    "element": "Water",
+    "symbol": "Intertwined roots"
+  },
+  {
+    "name": "Determination",
+    "description": "Determination is the unwavering resolve to keep going—especially when things get difficult. It’s not about force; it’s about purpose. Determination is born from clarity, sustained by discipline, and shaped by endurance. It doesn’t guarantee ease, but it ensures progress. Every meaningful journey is marked by moments that test your will. Determination is what carries you through. It’s the fire that says: this matters, and I won’t give up. In each small step taken with resolve, something greater is built.",
+    "element": "Fire",
+    "symbol": "Climbing figure on a steep mountain"
+  },
+  {
+    "name": "Resilience",
+    "description": "Resilience is your capacity to bend without breaking, to feel deeply without being defeated. It is the quiet strength that lives in your breath after heartbreak, in your courage after failure, and in your laughter after pain. Resilience doesn’t mean you are untouched by hardship—it means you grow through it. You learn, adapt, and emerge wiser. It is rooted in self-trust, fueled by hope, and revealed through challenge. Resilience is the soul’s ability to rise again.",
+    "element": "Earth",
+    "symbol": "Tree growing through stone"
+  },
+  {
+    "name": "Ambition",
+    "description": "Ambition is the desire to reach for something beyond what is, not out of lack, but out of possibility. It’s the inner fire that says: I was made for more. Healthy ambition is not rooted in ego—it’s rooted in purpose. It is driven by a deep yearning to create, to contribute, to expand. Ambition without integrity becomes obsession, but with vision and values, it becomes evolution. When aligned with meaning, ambition is a sacred call to action.",
+    "element": "Fire",
+    "symbol": "Arrow in flight"
+  },
+  {
+    "name": "Passion",
+    "description": "Passion is the soul’s way of saying, 'This matters.' It is the energy that comes alive when you are aligned with what you love, what you believe in, and what you were born to do. Passion is not always loud or dramatic—it can be steady and focused, like a heartbeat. It fuels creativity, drives courage, and sustains you through difficulty. To follow your passion is to trust the intelligence of your joy. It is how purpose reveals itself through feeling.",
+    "element": "Fire",
+    "symbol": "Flame dancing in the wind"
+  },
+  {
+    "name": "Strength",
+    "description": "Strength is not just physical power—it’s emotional and spiritual endurance. It is the ability to stay grounded in the face of adversity, to protect what matters, and to carry your values through challenge. Strength can be fierce, but also soft—it’s the strength to be kind, to be patient, to forgive, to let go. It’s not about never falling, but always rising. True strength does not need to prove itself—it simply holds steady, like the earth beneath your feet.",
+    "element": "Earth",
+    "symbol": "Solid boulder"
+  },
+  {
+    "name": "Boldness",
+    "description": "Boldness is the willingness to step forward, even when you're uncertain. It’s the refusal to be small in the face of fear. Boldness speaks truth, takes risks, and follows intuition. It’s not about being fearless—it’s about feeling the fear and doing it anyway. Boldness is what moves dreams into reality. It is the creative force that disrupts stagnation and gives birth to change. It’s how revolutions begin—both in the world and in the soul.",
+    "element": "Fire",
+    "symbol": "Lightning strike"
+  },
+  {
+    "name": "Initiative",
+    "description": "Initiative is the spark that turns thought into motion. It’s the willingness to act without being told—to create, to lead, to begin. It reflects a sense of ownership and a readiness to engage. People with initiative don’t wait for perfect conditions—they move, trusting they’ll adapt. It’s an energy of proactivity, creativity, and courage. Every great endeavor starts with a single act of initiative. It is how potential becomes momentum.",
+    "element": "Fire",
+    "symbol": "First step on a path"
+  },
+  {
+    "name": "Perseverance",
+    "description": "Perseverance is the ability to stay the course even when the road gets hard. It’s continuing after failure, choosing again after rejection, rising after every fall. Perseverance isn’t always glamorous—it’s quiet, gritty, and determined. It is fueled not just by motivation, but by meaning. It is the long game—the refusal to quit when the goal is still calling. In perseverance, you become stronger than your circumstance.",
+    "element": "Earth",
+    "symbol": "River carving through rock"
+  },
+  {
+    "name": "Risk-taking",
+    "description": "Risk-taking is the courage to step into the unknown. It’s the willingness to leave the safe shore for the chance of something greater. Every meaningful creation, relationship, or breakthrough involves risk. It requires trust—in yourself, in life, in the process. Risk doesn’t mean recklessness; it means you value growth more than comfort. To take a risk is to say yes to possibility. It’s how you learn what you’re truly capable of.",
+    "element": "Air",
+    "symbol": "Bird mid-flight"
+  },
+  {
+    "name": "Hustle",
+    "description": "Hustle is the ability to move with energy, urgency, and intent. It’s about putting in the work—not just when it’s easy, but when it’s messy, uncertain, and difficult. Hustle is born from hunger, from purpose, from fire. But it must be grounded in balance—otherwise, it burns out. True hustle is focused, not frantic. It’s driven by love, not fear. When directed wisely, hustle builds empires—not just of success, but of meaning.",
+    "element": "Fire",
+    "symbol": "Hammer striking stone"
+  },
+  {
+    "name": "Faith",
+    "description": "Faith is the unseen thread that holds you when nothing else makes sense. It is trust in what you cannot yet see or prove. Faith may be spiritual, personal, or intuitive—but it always points beyond the visible. It’s what keeps you moving when the path is unclear, what lets you hope when the world feels dark. Faith doesn’t ignore reality; it simply believes that possibility still exists. It’s the whisper: 'There’s more than this.'",
+    "element": "Ether",
+    "symbol": "Candle in the darkness"
+  },
+  {
+    "name": "Drive",
+    "description": "Drive is the internal engine that pushes you forward—toward goals, growth, or greatness. It’s more than ambition; it’s a sustained will to pursue something with passion and resilience. Drive resists stagnation and invites excellence. But it must be paired with purpose, or it becomes endless striving. When rooted in something meaningful, drive becomes a channel for creative power. It’s what allows you to build, to rise, to thrive.",
+    "element": "Fire",
+    "symbol": "Wheels in motion"
+  },
+  {
+    "name": "Vision",
+    "description": "Vision is the ability to see not just what is, but what could be. It is imagination fused with purpose. Visionaries move beyond limits because they are guided by a picture of possibility. Vision gives your efforts meaning and direction. It’s not a fantasy—it’s a compass. When you live with vision, your life becomes intentional. You are no longer reacting to the world—you are shaping it.",
+    "element": "Air",
+    "symbol": "Distant horizon"
+  },
+  {
+    "name": "Peace",
+    "description": "Peace is not the absence of conflict, but the presence of deep inner stillness. It is a state of acceptance, harmony, and balance that radiates outward. Peace cannot be chased—it must be cultivated. It grows in simplicity, in breath, in letting go. When you find peace within, the world outside no longer controls your inner state. Peace is the ultimate homecoming—the moment when your soul says, 'I am here, and all is well.'",
+    "element": "Water",
+    "symbol": "Calm ocean at sunrise"
+  },
+  {
+    "name": "Hope",
+    "description": "Hope is the quiet strength that holds light in the darkness. It is the belief that change is possible, even when things feel broken. Hope doesn’t deny pain—it walks with it and still dreams. It gives you the courage to keep going, to try again, to believe in what’s unseen. Hope is the seed of renewal, the root of resilience, and the soul’s refusal to give up.",
+    "element": "Air",
+    "symbol": "Dawn breaking through clouds"
+  },
+  {
+    "name": "Integrity",
+    "description": "Integrity is the alignment between your words, your actions, and your values. It is living honestly, even when no one is watching. Integrity means doing what’s right, not what’s easy. It brings peace because there’s no gap between who you are and how you show up. Integrity isn’t perfection—it’s consistency, humility, and truth. It is one of the highest forms of self-respect.",
+    "element": "Earth",
+    "symbol": "Straight path through forest"
+  },
+  {
+    "name": "Service",
+    "description": "Service is the act of offering your time, energy, or gifts for the benefit of others. It moves you beyond yourself and into connection, compassion, and contribution. Service doesn’t require grand gestures—small, sincere actions often change lives. It brings meaning, because it taps into our deepest longing: to matter. When you serve from love—not obligation—you transform both yourself and the world around you.",
+    "element": "Water",
+    "symbol": "Open hands with pouring water"
+  },
+  {
+    "name": "Truth",
+    "description": "Truth is the anchor of integrity, the light in confusion. It is not just factual—it is lived. Speaking your truth takes courage. Living your truth takes strength. Truth can be uncomfortable, but it is always liberating. When you honor truth—in words, in choices, in relationships—you create trust, clarity, and freedom. Truth is not a weapon—it is a compass. It points you home.",
+    "element": "Air",
+    "symbol": "Unveiled mirror"
+  },
+  {
+    "name": "Conscience",
+    "description": "Conscience is your inner guide—the quiet voice that knows right from wrong, even when the world is loud. It is not fear-based—it is rooted in moral clarity. Conscience speaks from love, not judgment. When you honor your conscience, you live in alignment with your soul. It helps you navigate complexity with integrity, humility, and empathy. It is the whisper that keeps you awake to your humanity.",
+    "element": "Ether",
+    "symbol": "Inner flame"
+  },
+  {
+    "name": "Meaning",
+    "description": "Meaning is the thread that weaves life’s moments into something sacred. It’s what turns pain into purpose, effort into fulfillment. Meaning doesn’t have to be grand—it can be found in the way you love, the way you create, the way you show up. It is what the soul feeds on. Without meaning, life is a series of tasks. With meaning, life becomes a journey of belonging, service, and depth.",
+    "element": "Earth",
+    "symbol": "Spiral in the sand"
+  },
+  {
+    "name": "Surrender",
+    "description": "Surrender is not giving up—it’s letting go of control. It is trusting the flow of life even when the outcome is unclear. Surrender is active—it means showing up fully while releasing attachment. It is a form of grace, of deep spiritual maturity. In surrender, you stop resisting what is and open to what might be. Paradoxically, it is through surrender that true power often emerges.",
+    "element": "Water",
+    "symbol": "Falling leaf on a stream"
+  },
+  {
+    "name": "Balance",
+    "description": "Balance is the dance between effort and ease, doing and being. It is the ability to hold multiple truths at once—to stay grounded in the midst of movement. Balance does not mean perfect symmetry; it means harmony. It requires regular return, reflection, and recalibration. When you live with balance, your energy becomes sustainable, your choices more aligned, and your heart more open.",
+    "element": "Air",
+    "symbol": "Yin-yang stone circle"
+  },
+  {
+    "name": "Justice",
+    "description": "Justice is the pursuit of fairness, dignity, and equity for all. It is rooted in empathy and expressed through action. Justice asks us to listen to voices that have been silenced and to stand up when it’s easier to stay silent. It’s not about revenge—it’s about restoration. Justice creates space for healing, accountability, and transformation. To live justly is to love courageously.",
+    "element": "Earth",
+    "symbol": "Balanced scales"
+  },
+  {
+    "name": "Purpose",
+    "description": "Purpose is the deeper why behind your actions. It is the thread that ties your gifts to the greater good. Purpose doesn’t come from chasing—it emerges through reflection, service, and authenticity. When you live with purpose, your life feels directed, connected, and whole. It doesn’t remove pain, but it gives pain a direction. Purpose is the compass of the soul. It answers the question: Why am I here?",
+    "element": "Fire",
+    "symbol": "North Star"
+  }
+]
